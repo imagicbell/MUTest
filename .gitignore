@@ -1,0 +1,13 @@
+.DS_Store
+
+.idea/
+Temp/
+Library/
+obj/
+
+*.userprefs
+*.csproj
+*.sln
+
+**/Plugins/
+**/Plugins.meta
